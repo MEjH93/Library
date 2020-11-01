@@ -1,0 +1,6 @@
+rs\cubes\biblioteka\domain\Books.class
+rs\cubes\biblioteka\rest\RESTApp.class
+rs\cubes\biblioteka\rest\BookResource.class
+rs\biblioteka\bussines\BookService.class
+rs\biblioteka\bussines\Library.class
+rs\cubes\biblioteka\domain\Book.class
